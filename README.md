@@ -1,6 +1,6 @@
 # DSAcademy
 Notes and projects of the data science course taught by the data science academy.
 
-## Índice
+## Summary
 
-- Modulo #8: Módulos Python para Análise de Dados 
+- Module#8: Python Modules for Data Analysis
