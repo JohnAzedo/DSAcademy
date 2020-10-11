@@ -1,7 +1,6 @@
-# Udemy 
-Notes and projects of the data science course taught by the data science academy.
+# Machine Learning from A to Z 
+Notes and projects of the machine learning course.
 
 ## Summary
 
-- Module#8: Python Modules for Data Analysis
-- Module#10: Machine Learning
+- Module#3: Pre-processing
