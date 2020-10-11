@@ -51,4 +51,9 @@ scaler = StandardScaler()
 # Nesse caso, algorítimos que usam a distancia euclidiana não
 # irão considerar valores maiores como mais importantes
 previsores = scaler.fit_transform(previsores)
-previsores
+
+
+# %%
+# Divisão de dados para treinamento e dados para teste
+from sklearn.model_selection import train_test_split
+previsores_treinamento, previsores_teste, classe_treinamento, classe_teste = train_test_split(previsores, classe, test_size=0.25, random_state=0)
